@@ -1,0 +1,3 @@
+file,true,pred,prob,correct
+sample_infected.jpg,1,1,0.9999552,True
+sample_uninfected.jpg,1,0,0.08496851,False
